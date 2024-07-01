@@ -1,2 +1,2 @@
-SCREENSHOT DA APLICAÇAO
-![Captura de Tela (96)](https://github.com/Willianpimenta/calculadora-imc/assets/66370178/2fad071e-cf5f-47a0-9ac9-b67a7f11116c)
+SCREENSHOT DA APLICAÇAO 
+![Captura de Tela (96)](https://github.com/Willianpimenta/calculadora-imc/assets/66370178/13b60bce-e29a-4082-afaf-4bae1c74350a)
